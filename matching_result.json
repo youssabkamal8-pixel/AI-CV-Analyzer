@@ -1,0 +1,45 @@
+{
+    "match_score": 75,
+    "matching_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Evaluation",
+        "Git"
+    ],
+    "missing_skills": [
+        "TensorFlow",
+        "Pytorch",
+        "Scikit-learn",
+        "NumPy",
+        "Pandas",
+        "Jupyter Notebook",
+        "VS Code",
+        "Google Colab",
+        "Hugging Face",
+        "FAISS",
+        "LangChain"
+    ],
+    "strengths": [
+        "Strong problem-solving skills",
+        "Teamwork and collaboration",
+        "Communication skills",
+        "Adaptability & fast learning",
+        "Critical thinking",
+        "Attention to detail",
+        "Ability to work under pressure",
+        "Leadership & negotiation skills"
+    ],
+    "weaknesses": [
+        "Lack of experience with some required technical skills (TensorFlow, Pytorch, Scikit-learn, NumPy, Pandas)",
+        "No experience with LLMs or Prompt Engineering",
+        "No cloud platforms experience (AWS, Azure, GCP)"
+    ],
+    "recommendations": [
+        "Consider gaining more hands-on experience with TensorFlow, PyTorch, Scikit-learn, NumPy, and Pandas to strengthen your technical skills.",
+        "Explore learning about LLMs and Prompt Engineering to expand your AI knowledge.",
+        "Gain experience with cloud platforms (AWS, Azure, GCP) to be more competitive."
+    ],
+    "final_decision": "The candidate has a strong match for the job description in terms of skills and soft skills. However, they lack experience with some required technical skills and have no experience with LLMs or Prompt Engineering or cloud platforms. It is recommended that they gain more hands-on experience with these areas to be a stronger fit for the AI Engineer position."
+}

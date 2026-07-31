@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Uploaded Files
+uploads/
+
+# Vector Store
+vector_store/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+# Personal files
+data/*.pdf
+data/processed/
+
+# Generated files
+*.pkl
+.venv/
+.vscode/
+__pycache__/
+
+uploads/
+vector_store/
+
+data/processed/
+*.pkl
